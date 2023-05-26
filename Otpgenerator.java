@@ -30,19 +30,7 @@ public class Otpgenerator {
 		
 	}
 
-//	@Override
-//	public boolean equals(Object obj) {
-//		// TODO Auto-generated method stub
-//		if (obj instanceof Otpgenerator)
-//		return 
-//	}
-	
 
-	@Override
-	public String toString() {
-		return "otp";
-	}
-	
 	
 	
 
